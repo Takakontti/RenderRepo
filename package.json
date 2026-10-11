@@ -1,0 +1,21 @@
+{
+  "name": "renderrepo",
+  "version": "1.0.0",
+  "description": "this repository is for testing Render.com pipelines.",
+  "homepage": "https://github.com/Takakontti/RenderRepo#readme",
+  "bugs": {
+    "url": "https://github.com/Takakontti/RenderRepo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Takakontti/RenderRepo.git"
+  },
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
